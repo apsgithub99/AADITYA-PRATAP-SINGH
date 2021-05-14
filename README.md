@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Aaditya Pratap Singh ( @AADITYA-PRATAP-SINGH ) pursuing B-Tech in IT from Indian Institute of Information Technology ,Gwalior .
+- 👀 I’m interested in computer science / content making / entrepreneurship  
+- 🌱 I’m currently learning web development ,DSA and started with competative programming and basically exploring different domains!
+- 📫 How to reach me ?
+        - INSTAGRAM : aaditya.pratap.singh_
+        - LinkedIn: Aaditya Pratap Singh 
