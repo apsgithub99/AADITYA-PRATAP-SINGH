@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Aaditya Pratap Singh ( @AADITYA-PRATAP-SINGH ) pursuing B-Tech in IT from Indian Institute of Information Technology ,Gwalior .
-- 👀 I’m interested in computer science / content making / entrepreneurship  
-- 🌱 I’m currently learning web development ,DSA and started with competative programming and basically exploring different domains!
-- 📫 How to reach me ?
-        - INSTAGRAM : aaditya.pratap.singh_
-        - LinkedIn: Aaditya Pratap Singh 
+As a final-year student at the Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior, pursuing an integrated B.Tech + M.Tech in Information Technology, I am deeply passionate about the intersection of computer science, machine learning, and deep learning. My technical expertise spans programming languages like C, C++, and Python, as well as frameworks like TensorFlow and PyTorch. With a strong foundation in web development, competitive programming, and data visualization tools like Power BI, I strive to apply my knowledge to real-world challenges.
+
+I have held several leadership positions, including President of the Student Activity Council (SAC), where I successfully organized over 20 campus events. My involvement with IEEE and the Entrepreneurship Cell allowed me to enhance my skills in digital content strategy and event promotion, significantly boosting participation and recognition.
+
+Beyond academics, I am a creative individual who enjoys content creation, photography, and videography. As a member of the college dance club, I bring energy and a positive vibe to every performance, especially in Bollywood and Bhangra styles. I am always eager to explore new domains, connect with people, and create value through my work, with the ultimate goal of making a meaningful impact on the world.
